@@ -17,6 +17,6 @@
   <project name="pixelexperience/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
   
   <!-- Kernel -->
-  <project name="pixelexperience-devices/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen-wip" remote="github"/>
+  <project name="pixelexperience-devices/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
 
 </manifest>
